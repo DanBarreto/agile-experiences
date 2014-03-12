@@ -1,0 +1,18 @@
+<div class="container">
+	<ol class="breadcrumb">
+		<li class="active">Categorias</li>
+	</ol>
+	<div class="row">
+		<ul id="categories">
+			<% Category.all.sort_by(&:name).each do |c| %>
+				<a href="<%=category_lessons_learned_index_path(c)%>">
+					<li class="category col-md-12">
+						<h3><%=c.name%>
+							<span class="label label-warning pull-right"><%= c.lessons_learned.size %> LA<%= c.lessons_learned.size > 1 ? 's' : ''%> </span>
+						</h3>
+					</li>
+				</a>
+			<% end %>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,22 @@
+<div class="container">
+	<ol class="breadcrumb">
+		 <li><%=link_to 'Categorias', categories_path%></li>
+		 <li><%=link_to @category.name, '#' %></li>
+		 <li class="active">Lições aprendidas</li>
+	</ol>
+	<% @category.lessons_learned.each do |l|%>
+		<blockquote>
+		  <p><%= l.content %></p>
+			<% l.references.each do |r| %>
+				<footer>
+					<%= link_to r.title, r.link, target: '_blank' %>
+				</footer>
+			<% end %>
+		</blockquote>
+	<% end %>
+</div>
+<script>
+	$(function(){
+		$("blockquote:even").addClass("blockquote-reverse");
+	});
+</script>

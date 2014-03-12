@@ -1,0 +1,1063 @@
+categories:
+  -
+    name: "Experiência, treinamento e aprendizado"
+    lessons_learned:
+      -
+        content: "É muito difícil aventurar-se em Ágil sem um Agile Coach"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5982247"
+            title: "Agile adoption experience: A case study in the U.A.E"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298109"
+            title: "Adobe Premiere Pro Scrum Adoption: How an Agile Approach Enabled Success in a Hyper-competitive Landscape"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6005525"
+            title: "The Agile Office: Experience Report from Cisco's Unified Communications Business Unit"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6340199"
+            title: "Agile Adoption Story from NHN"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/Zeh/padres-a-antipadres-da-adoo-da-agilidade-agile-2013"
+            title: "Padrões e Antipadrões da Adoção da Agilidade em Governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/agilecoach/agile-2013-from-stone-age-to-agile"
+            title: "Evolving to Agile"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Vivenciar um projeto-piloto é uma prática muito eficiente para se adquirir experiência"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5982247"
+            title: "Agile adoption experience: A case study in the U.A.E"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6005525"
+            title: "The Agile Office: Experience Report from Cisco's Unified Communications Business Unit"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/Zeh/padres-a-antipadres-da-adoo-da-agilidade-agile-2013"
+            title: "Padrões e Antipadrões da Adoção da Agilidade em Governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "É preciso prática, não apenas estudo"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5982247"
+            title: "Agile adoption experience: A case study in the U.A.E"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6170013"
+            title: "Factor Analysis: Investigating Important Aspects for Agile Adoption in Malaysia"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/rcvieira/agilidade-das-trincheiras-do-tribunal-superior-do-trabalho"
+            title: "Agilidade das trincheiras do tribunal superior do trabalho"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Trabalhar com equipes não-ágeis pode atrapalhar o andamento do projeto"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298109"
+            title: "Adobe Premiere Pro Scrum Adoption: How an Agile Approach Enabled Success in a Hyper-competitive Landscape"
+            text_type: "ARTICLE"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Planejamento e gerenciamento de backlog"
+    lessons_learned:
+      -
+        content: "Planejar apenas quando necessário"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5982247"
+            title: "Agile adoption experience: A case study in the U.A.E"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6606635"
+            title: "Scaling agile methods to regulated environments: An industry case study"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "https://submissions.agilealliance.org/system/attachments/attachments/000/000/056/original/Agile_2013_-_Lean_Change_for_Enabling_Agile_Transformations.pdf?1385085655"
+            title: "Lean change"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "O processo de adoção em si precisa ser bem planejado"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5982247"
+            title: "Agile adoption experience: A case study in the U.A.E"
+            text_type: "ARTICLE"
+      -
+        content: "Priorizar o backlog é uma tarefa complicada para times inexperientes"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+      -
+        content: "É difícil lidar com o aumento de escopo"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+      -
+        content: "É preciso aprender a quebrar o backlog da forma correta"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298109"
+            title: "Adobe Premiere Pro Scrum Adoption: How an Agile Approach Enabled Success in a Hyper-competitive Landscape"
+            text_type: "ARTICLE"
+          -
+            link: "https://submissions.agilealliance.org/system/attachments/attachments/000/000/056/original/Agile_2013_-_Lean_Change_for_Enabling_Agile_Transformations.pdf?1385085655"
+            title: "Lean change"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "A coleta e gerência de requisitos ocorre de forma bem diferente do habitual"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6601582"
+            title: "The Maturation of Agile Software Development Principles and Practice"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "https://submissions.agilealliance.org/system/attachments/attachments/000/000/056/original/Agile_2013_-_Lean_Change_for_Enabling_Agile_Transformations.pdf?1385085655"
+            title: "Lean change"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Apoio gerencial e dos clientes"
+    lessons_learned:
+      -
+        content: "Pressão por parte do alto escalão da empresa afeta negativamente no andamento do processo de adoção ágil"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5982247"
+            title: "Agile adoption experience: A case study in the U.A.E"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6005525"
+            title: "The Agile Office: Experience Report from Cisco's Unified Communications Business Unit"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/Srinath_cs/agile-goa-final?from_search=4"
+            title: "Agile in IT Services"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "O apoio do cliente é de suma importância para o sucesso do projeto"
+        references:
+          -
+            link: "http://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13529404&AN=67435660&h=Oa9OG8y3iM5iv8LBybmyGATEXFc3vHWqZ%2bRqR6dfLa6BCu4JZp9%2fazxDzpIzxA2ZLbfzl56W8n8b%2fhVJ90vbXw%3d%3d&crl=c"
+            title: "Software Tools and Processes: A Key Factor in Successful Agile Adoption"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "É muito difícil contornar uma situação quando o cliente pressiona o time para que se adote práticas waterfall"
+        references:
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/Srinath_cs/agile-goa-final?from_search=4"
+            title: "Agile in IT Services"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "É preciso ter liberdade ao se adotar Ágil"
+        references:
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Customização e adaptabilidade"
+    lessons_learned:
+      -
+        content: "Ágil é customizável, não existem regras no seu processo de adoção"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5982247"
+            title: "Agile adoption experience: A case study in the U.A.E"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "https://submissions.agilealliance.org/system/attachments/attachments/000/000/056/original/Agile_2013_-_Lean_Change_for_Enabling_Agile_Transformations.pdf?1385085655"
+            title: "Lean change"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Dar suporte para adaptabilidade é um problema não-trivial"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6170013"
+            title: "Factor Analysis: Investigating Important Aspects for Agile Adoption in Malaysia"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6606635"
+            title: "Scaling agile methods to regulated environments: An industry case study"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6601582"
+            title: "The Maturation of Agile Software Development Principles and Practice"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs11219-012-9189-4"
+            title: "Evaluating the impact of an agile transformation: a longitudinal case study in a distributed context"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/Zeh/padres-a-antipadres-da-adoo-da-agilidade-agile-2013"
+            title: "Padrões e Antipadrões da Adoção da Agilidade em Governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "https://submissions.agilealliance.org/system/attachments/attachments/000/000/056/original/Agile_2013_-_Lean_Change_for_Enabling_Agile_Transformations.pdf?1385085655"
+            title: "Lean change"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/nashjain/value-driven-agile-adoption?from_search=4"
+            title: "Value-driven Agile Adoption"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/michael.sahota/agile-2012-an-agile-adoption-and-transformation-survival-guide?from_search=10"
+            title: "An Agile Adoption and Transformation Survival Guide"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Dificuldades na implantação de mudanças necessárias"
+        references:
+          -
+            link: "http://www.slideshare.net/rcvieira/agilidade-das-trincheiras-do-tribunal-superior-do-trabalho"
+            title: "Agilidade das trincheiras do tribunal superior do trabalho"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "https://submissions.agilealliance.org/system/attachments/attachments/000/000/056/original/Agile_2013_-_Lean_Change_for_Enabling_Agile_Transformations.pdf?1385085655"
+            title: "Lean change"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/michael.sahota/agile-2012-an-agile-adoption-and-transformation-survival-guide?from_search=10"
+            title: "An Agile Adoption and Transformation Survival Guide"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Confiança do time"
+    lessons_learned:
+      -
+        content: "Entregar mais e entregar valor ajuda a manter o time confiante"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6170013"
+            title: "Factor Analysis: Investigating Important Aspects for Agile Adoption in Malaysia"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Utilizar métodos ágeis ajuda a manter elevado o ânimo do time"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6170013"
+            title: "Factor Analysis: Investigating Important Aspects for Agile Adoption in Malaysia"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs11219-012-9189-4"
+            title: "Evaluating the impact of an agile transformation: a longitudinal case study in a distributed context"
+            text_type: "ARTICLE"
+          -
+            link: "http://pt.slideshare.net/nashjain/value-driven-agile-adoption?from_search=4"
+            title: "Value-driven Agile Adoption"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "A manutenção da confiança das partes envolvidas se mostrou comprometida com o uso de metodologias ágeis"
+        references:
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs11219-012-9189-4"
+            title: "Evaluating the impact of an agile transformation: a longitudinal case study in a distributed context"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Engajamento, comprometimento, disciplina e trabalho em equipe"
+    lessons_learned:
+      -
+        content: "É difícil encontrar pessoas que trabalham bem em equipe"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+      -
+        content: "É muito importante ter o PO próximo ou, se possível, como membro ativo do time, envolvido em todas as etapas do processo"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6170013"
+            title: "Factor Analysis: Investigating Important Aspects for Agile Adoption in Malaysia"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/Zeh/padres-a-antipadres-da-adoo-da-agilidade-agile-2013"
+            title: "Padrões e Antipadrões da Adoção da Agilidade em Governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Falta de ownership no projeto"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs11219-012-9189-4"
+            title: "Evaluating the impact of an agile transformation: a longitudinal case study in a distributed context"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/VitorQ/agile-black-ops"
+            title: "Agile Black Ops - Como infiltrar agile em ambiente hostil"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "O envolvimento dos desenvolvedores dentro do processo é extremamente importante"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6170013"
+            title: "Factor Analysis: Investigating Important Aspects for Agile Adoption in Malaysia"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298109"
+            title: "Adobe Premiere Pro Scrum Adoption: How an Agile Approach Enabled Success in a Hyper-competitive Landscape"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6606635"
+            title: "Scaling agile methods to regulated environments: An industry case study"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/nashjain/value-driven-agile-adoption?from_search=4"
+            title: "Value-driven Agile Adoption"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Para projetos ágeis serem bem sucedidos, é preciso disciplina"
+        references:
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Aspectos técnicos e tecnológicos"
+    lessons_learned:
+      -
+        content: "Utilizar ágil em um projeto com código legado se mostrou desafiador"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+      -
+        content: "Integração contínua, automação de build e testes automatizados promovem ganhos muito vantajosos"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6005525"
+            title: "The Agile Office: Experience Report from Cisco's Unified Communications Business Unit"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6340199"
+            title: "Agile Adoption Story from NHN"
+            text_type: "ARTICLE"
+      -
+        content: "É necessário o suporte de boas ferramentas"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6606635"
+            title: "Scaling agile methods to regulated environments: An industry case study"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13529404&AN=67435660&h=Oa9OG8y3iM5iv8LBybmyGATEXFc3vHWqZ%2bRqR6dfLa6BCu4JZp9%2fazxDzpIzxA2ZLbfzl56W8n8b%2fhVJ90vbXw%3d%3d&crl=c"
+            title: "Software Tools and Processes: A Key Factor in Successful Agile Adoption"
+            text_type: "ARTICLE"
+      -
+        content: "A atividade de design arquitetural se mostrou desafiadora"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6601582"
+            title: "The Maturation of Agile Software Development Principles and Practice"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.ijsrp.org/research-paper-1112.php?rp=P11386"
+            title: "Inclusion of e-Assist to increase Agile Adoption"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Ágil promove uma melhor manutenibilidade do código"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6601582"
+            title: "The Maturation of Agile Software Development Principles and Practice"
+            text_type: "ARTICLE"
+      -
+        content: "Infraestruturas virtualizadas proporcionam a flexibilidade necessária para muitos projetos ágeis"
+        references:
+          -
+            link: "http://www.ijsrp.org/research-paper-1112.php?rp=P11386"
+            title: "Inclusion of e-Assist to increase Agile Adoption"
+            text_type: "ARTICLE"
+      -
+        content: "Ágil promove uma pior manutenibilidade do código"
+        references:
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs11219-012-9189-4"
+            title: "Evaluating the impact of an agile transformation: a longitudinal case study in a distributed context"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/VitorQ/agile-black-ops"
+            title: "Agile Black Ops - Como infiltrar agile em ambiente hostil"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Em certos casos há resistência por parte do cliente para utilizar o produto construído"
+        references:
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Compartilhamento de conhecimento"
+    lessons_learned:
+      -
+        content: "Compartilhar conhecimento e experiências é crucial para o sucesso de projetos ágeis"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6170013"
+            title: "Factor Analysis: Investigating Important Aspects for Agile Adoption in Malaysia"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6005525"
+            title: "The Agile Office: Experience Report from Cisco's Unified Communications Business Unit"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.ijsrp.org/research-paper-1112.php?rp=P11386"
+            title: "Inclusion of e-Assist to increase Agile Adoption"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6340199"
+            title: "Agile Adoption Story from NHN"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/rafaelvalerio311/4-atitudes-para-melhorar-a-agilidade-de-uma-empresa-na-prtica"
+            title: "4 atitudes para melhorar a agilidade de uma empresa. Na prática."
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/rcvieira/agilidade-das-trincheiras-do-tribunal-superior-do-trabalho"
+            title: "Agilidade das trincheiras do tribunal superior do trabalho"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/VitorQ/agile-black-ops"
+            title: "Agile Black Ops - Como infiltrar agile em ambiente hostil"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "O ambiente com uma cultura ágil favorece o compartilhamento de conhecimento"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6681378"
+            title: "The Impact of Agile Principles and Practices on Large-Scale Software Development Projects"
+            text_type: "ARTICLE"
+  -
+    name: "Velocidade de entrega e produtividade"
+    lessons_learned:
+      -
+        content: "Há um aumento na velocidade/frequência de entrega com Ágil"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298109"
+            title: "Adobe Premiere Pro Scrum Adoption: How an Agile Approach Enabled Success in a Hyper-competitive Landscape"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6606635"
+            title: "Scaling agile methods to regulated environments: An industry case study"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6005525"
+            title: "The Agile Office: Experience Report from Cisco's Unified Communications Business Unit"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6340199"
+            title: "Agile Adoption Story from NHN"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/VitorQ/agile-black-ops"
+            title: "Agile Black Ops - Como infiltrar agile em ambiente hostil"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "https://submissions.agilealliance.org/system/attachments/attachments/000/000/056/original/Agile_2013_-_Lean_Change_for_Enabling_Agile_Transformations.pdf?1385085655"
+            title: "Lean change"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/nashjain/value-driven-agile-adoption?from_search=4"
+            title: "Value-driven Agile Adoption"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Defeitos são corrigidos mais rapidamente"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+      -
+        content: "A velocidade do time é variável"
+        references:
+          -
+            link: "http://www.slideshare.net/eduardomeiraperes/abolies-aprendidas"
+            title: "AboLições aprendidas"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Qualidade do produto final"
+    lessons_learned:
+      -
+        content: "A melhoria na qualidade e valor agregado do produto é notória ao se desenvolver utilizando Ágil"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298109"
+            title: "Adobe Premiere Pro Scrum Adoption: How an Agile Approach Enabled Success in a Hyper-competitive Landscape"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6606635"
+            title: "Scaling agile methods to regulated environments: An industry case study"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6601582"
+            title: "The Maturation of Agile Software Development Principles and Practice"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6340199"
+            title: "Agile Adoption Story from NHN"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/nashjain/value-driven-agile-adoption?from_search=4"
+            title: "Value-driven Agile Adoption"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Testar a aplicação durante o seu desenvolvimento reduz riscos"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6340199"
+            title: "Agile Adoption Story from NHN"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/nashjain/value-driven-agile-adoption?from_search=4"
+            title: "Value-driven Agile Adoption"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Tamanho da organização"
+    lessons_learned:
+      -
+        content: "Pequenas empresas conseguem obter benefícios mais facilmente ao adotar Ágil"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6601582"
+            title: "The Maturation of Agile Software Development Principles and Practice"
+            text_type: "ARTICLE"
+      -
+        content: "Escalar Ágil para empresas ou projetos maiores é complicado, porém não é impossível"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "É possível implementar Ágil parcialmente"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6681378"
+            title: "The Impact of Agile Principles and Practices on Large-Scale Software Development Projects"
+            text_type: "ARTICLE"
+  -
+    name: "Qubra de paradigma"
+    lessons_learned:
+      -
+        content: "É difícil lidar com a quebra de paradigma para a implementação de Ágil"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5982247"
+            title: "Agile adoption experience: A case study in the U.A.E"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6005509"
+            title: "Evolving to Agile: A Story of Agile Adoption at a Small SaaS Company"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA556040"
+            title: "DoD Agile Adoption: Necessary Considerations, Concerns, and Changes"
+            text_type: "ARTICLE"
+          -
+            link: "http://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13529404&AN=67435660&h=Oa9OG8y3iM5iv8LBybmyGATEXFc3vHWqZ%2bRqR6dfLa6BCu4JZp9%2fazxDzpIzxA2ZLbfzl56W8n8b%2fhVJ90vbXw%3d%3d&crl=c"
+            title: "Software Tools and Processes: A Key Factor in Successful Agile Adoption"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/stefanohs/ desafios-do-desenvolvimento-gil-para-o-governo"
+            title: "Desafios do desenvolvimento Ágil para o governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "A maneira de gerenciar/implementar os testes de softwares construídos em projetos ágeis é desafiadora"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+      -
+        content: "Colocar princípios acima de práticas"
+        references:
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/parzianello/implantando-a-cultura-gil-em-larga-escala-o-case-do-grupo-rbs"
+            title: "Implantando a Cultura Ágil em Larga Escala"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "https://submissions.agilealliance.org/system/attachments/attachments/000/000/056/original/Agile_2013_-_Lean_Change_for_Enabling_Agile_Transformations.pdf?1385085655"
+            title: "Lean change"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/nashjain/value-driven-agile-adoption?from_search=4"
+            title: "Value-driven Agile Adoption"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/michael.sahota/agile-2012-an-agile-adoption-and-transformation-survival-guide?from_search=10"
+            title: "An Agile Adoption and Transformation Survival Guide"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Comunicação remota"
+    lessons_learned:
+      -
+        content: "Coordernar atividades com times distribuídos é algo bastante desafiador"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6298109"
+            title: "Adobe Premiere Pro Scrum Adoption: How an Agile Approach Enabled Success in a Hyper-competitive Landscape"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5654786"
+            title: "Evaluating the Effect of Agile Methods on Software Defect Data and Defect Reporting Practices"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.ijsrp.org/research-paper-1112.php?rp=P11386"
+            title: "Inclusion of e-Assist to increase Agile Adoption"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/Zeh/padres-a-antipadres-da-adoo-da-agilidade-agile-2013"
+            title: "Padrões e Antipadrões da Adoção da Agilidade em Governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/rcvieira/agilidade-das-trincheiras-do-tribunal-superior-do-trabalho"
+            title: "Agilidade das trincheiras do tribunal superior do trabalho"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Sincronizar boards virtual e real não é uma tarefa fácil"
+        references:
+          -
+            link: "http://www.slideshare.net/rcvieira/agilidade-das-trincheiras-do-tribunal-superior-do-trabalho"
+            title: "Agilidade das trincheiras do tribunal superior do trabalho"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Dificuldade ao trabalhar com equipes externas de testes"
+        references:
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+  -
+    name: "Cultura organizacional"
+    lessons_learned:
+      -
+        content: "Métodos ágeis e ambientes altamente controlados são culturalmente incompatíveis"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6606635"
+            title: "Scaling agile methods to regulated environments: An industry case study"
+            text_type: "ARTICLE"
+      -
+        content: "Empresas que discordam de princípios ágeis tendem a falhar caso tentem implantar tais métodos"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6601582"
+            title: "The Maturation of Agile Software Development Principles and Practice"
+            text_type: "ARTICLE"
+          -
+            link: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6681340"
+            title: "Have Agile Techniques been the Silver Bullet for Software Development at Microsoft?"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs13173-013-0114-x"
+            title: "The evolution of agile software development in Brazil"
+            text_type: "ARTICLE"
+          -
+            link: "http://link.springer.com/article/10.1007%2Fs11219-012-9189-4"
+            title: "Evaluating the impact of an agile transformation: a longitudinal case study in a distributed context"
+            text_type: "ARTICLE"
+          -
+            link: "http://pt.slideshare.net/michael.sahota/agile-2012-an-agile-adoption-and-transformation-survival-guide?from_search=10"
+            title: "An Agile Adoption and Transformation Survival Guide"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
+      -
+        content: "Tentar influenciar/remodelar a cultura da organização é uma tarefa desafiadora"
+        references:
+          -
+            link: "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6340199"
+            title: "Agile Adoption Story from NHN"
+            text_type: "ARTICLE"
+          -
+            link: "http://www.slideshare.net/Zeh/padres-a-antipadres-da-adoo-da-agilidade-agile-2013"
+            title: "Padrões e Antipadrões da Adoção da Agilidade em Governo"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://www.slideshare.net/AnaHeloisaBastos/agile-brazil2013-adocaoagilecossistema"
+            title: "Adoção de práticas ágeis no desenvolvimento de software de missão crítica"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/michael.sahota/agile-2012-an-agile-adoption-and-transformation-survival-guide?from_search=10"
+            title: "An Agile Adoption and Transformation Survival Guide"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/Srinath_cs/agile-goa-final?from_search=4"
+            title: "Agile in IT Services"
+            text_type: "EXPERIENCE_REPORT"
+          -
+            link: "http://pt.slideshare.net/tmmaciel/a-incrvel-hist"
+            title: "A Incrível História de Uma Organização Pública que Acredita em Agilidade"
+            text_type: "EXPERIENCE_REPORT"
