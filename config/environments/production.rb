@@ -27,7 +27,9 @@ AgileExperiences::Application.configure do
   # config.assets.css_compressor = :sass
 
   # Do not fallback to assets pipeline if a precompiled asset is missed.
-  config.assets.compile = false
+  config.assets.compile = true
+  config.assets.precompile += %w[ vendor/assets/stylesheets/bootstrap.min.css vendor/assets/javascripts/bootstrap.min.js ]
+  config.assets.compress = true
 
   # Generate digests for assets URLs.
   config.assets.digest = true
